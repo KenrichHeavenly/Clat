@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "4_Grumpy_Cat_RIP_A_look_back_at_the.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
